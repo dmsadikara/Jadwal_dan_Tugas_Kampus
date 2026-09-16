@@ -1,11 +1,13 @@
 # STRUKTUR KONTROL
-struktur kontrol mekanisme dalam struktur aplikasi
-didalm suatu algoritma dia tidak bioleh lihat
-struktur kontrol: juika ada kondisi tertentu maka ada eksekusi yang diganti
-if 
-then 
-else
-[10.32, 16/9/2026] dekoi: struktur kontyrol jika kondisei terterntu tidak memenuhi dia eror
+- Struktur Kontrol Mekanisme dalam struktur aplikasi.
+- Didalam suatu algoritma dia tidak bioleh lihat.
+  
+# Logika Percabangan (Selection)
+- If-Then (tunggal)
+- If-Then-Else (ganda)
+- Swicth-Case (majemuk) 
+
+(struktur kontrol jika kondisi terterntu tidak memenuhi dia akan menjadi eror).
 jika dia tidak datang makan tidak ikut ujian
 [10.32, 16/9/2026] dekoi: fungsi:
 [10.32, 16/9/2026] dekoi: 1. Alur eksekusi

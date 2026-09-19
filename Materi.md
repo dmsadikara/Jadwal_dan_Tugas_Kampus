@@ -16,15 +16,18 @@ Algoritma runtunan ini adalah proses yang dilakukan secara beruntun dari langkah
 # Logika Percabangan (Selection)
 Kasus percabangan digambarkan, jika ada kecap dan gula maka membali satu gula; jika tidak ada kecap, maka beli dua gula.
 
-## IF-THEN (TUNGGAL): adalah bentuk paling sederhana, di mana suatu perintag dieksekusi ketika nilainya dianggap benar (true).
+## IF-THEN (TUNGGAL)
+Struktur percabangan yang hanya memiliki satu kondisi. Jika kondisi bernilai benar (true), maka perintah dijalankan. Jika salah (false), program akan melewati blok tersebut tanpa melakukan apa-apa. Bentuk paling sederhana, di mana suatu perintah dieksekusi ketika nilainya dianggap benar (true).
 - Contohnya: “belikan saya gula jika ada kecap”, hal ini disebut logika percabangan tunggal, karena ganya ada satu jalur eksekusi.
 
-## IF-THEN-ELSE (GANDA): memiliki dua jalur pilihan sekaligus. 
+## IF-THEN-ELSE (GANDA)
+Struktur percabangan yang memiliki satu kondisi tetapi menghasilkan dua kemungkinan aksi. Jika kondisi benar → aksi 1 dijalankan. Jika salah → aksi 2 (bagian else) dijalankan. Memiliki dua jalur pilihan sekaligus. 
 - Contohnya: jika ada kecap beli satu gula dan jika tidak ada kecap beli 2 gula.
 
 CATATAN: (Beda dengan IF-THEN tunggal, di sini selalu ada aksi yang dijalankan apapun hasil kondisinya).
 
-## SWITCH-CASE (MAJEMUK): digunakan ketika ada banyak kemungkinan kondisi yang perlu diuji satu per satu. Begitu ketika salah satu kondisi terbukti benar, maka kondisi-kondisi berikutnya langsung diabaikan atau tidak perlu di cek lagi, hal ini menjadi lebih efisien dibanding menumpuk banyak IF ELSE.
+## SWITCH-CASE (MAJEMUK)
+Digunakan ketika ada banyak kemungkinan kondisi yang perlu diuji satu per satu. Begitu ketika salah satu kondisi terbukti benar, maka kondisi-kondisi berikutnya langsung diabaikan atau tidak perlu di cek lagi, hal ini menjadi lebih efisien dibanding menumpuk banyak IF ELSE.
 - Contohnya: memetakan seluruh warung menggunakan konsep Array, misalnya warung A,B,C,D, di mana tiap warung di cek satu per satu sampai ketemu yang sesuai dengan apa yang dicari.
 
 ## logika perulangan (iteration)

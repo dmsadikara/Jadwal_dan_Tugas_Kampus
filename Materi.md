@@ -42,7 +42,7 @@ Di dalam pseudocode, disinilah operator perbandingan atau aljabar bekerja, seper
 
 ## CONTOH  NOTASI UMUM PSEUDOCODE
 
-
+<img src="Jadwal_dan_Tugas_Kampus/" alt="Smile_Dog" width="400" height="400">
 
 
 Interger adalah tipe data bilangan bulat, artinya tanpa angka desimal dan bisa bernilai positif maupun negatif
